@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?><gexf xmlns:ns0="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="DB04575" label="DB04575">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04574" label="DB04574">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CLOVE" label="CLOVE">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00957" label="DB00957">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04573" label="DB04573">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="HRAD54" label="HRAD54">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00890" label="DB00890">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00675" label="DB00675">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NQO2" label="NQO2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01645" label="DB01645">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NQO1" label="NQO1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="AKT1" label="AKT1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07708" label="DB07708">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BCC7" label="BCC7">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SMAX1" label="SMAX1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DIA4" label="DIA4">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07707" label="DB07707">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04253" label="DB04253">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07991" label="DB07991">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07086" label="DB07086">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRCATA" label="BRCATA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRCAX" label="BRCAX">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08773" label="DB08773">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01169" label="DB01169">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01541" label="DB01541">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast-ovarian cancer, familial, 2}, 612555 (3)" label="{Breast-ovarian cancer, familial, 2}, 612555 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CDH1" label="CDH1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08320" label="DB08320">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01481" label="DB01481">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00269" label="DB00269">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRCA1" label="BRCA1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRCA3" label="BRCA3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRCA2" label="BRCA2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BARD1" label="BARD1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD51L3" label="RAD51L3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08059" label="DB08059">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07712" label="DB07712">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04709" label="DB04709">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04471" label="DB04471">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KRAS" label="KRAS">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast and colorectal cancer, susceptibility to} (3)" label="{Breast and colorectal cancer, susceptibility to} (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07385" label="DB07385">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, male, susceptibility to}, 114480 (3)" label="{Breast cancer, male, susceptibility to}, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02400" label="DB02400">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PHB" label="PHB">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, invasive ductal}, 114480 (3)" label="{Breast cancer, invasive ductal}, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CC1" label="CC1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01087" label="DB01087">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Breast cancer, 114480 (3)" label="Breast cancer, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00304" label="DB00304">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06710" label="DB06710">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00171" label="DB00171">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00170" label="DB00170">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08047" label="DB08047">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CDS1" label="CDS1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08048" label="DB08048">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00266" label="DB00266">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Breast cancer (1)" label="Breast cancer (1)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07584" label="DB07584">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="TSG101" label="TSG101">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01065" label="DB01065">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, susceptibility to}, 114480 (3)" label="{Breast cancer, susceptibility to}, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02932" label="DB02932">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00977" label="DB00977">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)" label="{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02715" label="DB02715">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01927" label="DB01927">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04839" label="DB04839">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00286" label="DB00286">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" label="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="HYSP1" label="HYSP1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08737" label="DB08737">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="XRCC3" label="XRCC3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MCH5" label="MCH5">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB03541" label="DB03541">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06870" label="DB06870">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MCMTC" label="MCMTC">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00687" label="DB00687">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="GLM3" label="GLM3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BACH1" label="BACH1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07678" label="DB07678">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01406" label="DB01406">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07780" label="DB07780">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06871" label="DB06871">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02395" label="DB02395">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="UVO" label="UVO">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01564" label="DB01564">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07419" label="DB07419">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CHEK2" label="CHEK2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Breast cancer, somatic, 114480 (3)" label="Breast cancer, somatic, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="HMMR" label="HMMR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01395" label="DB01395">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00294" label="DB00294">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="IMPT1" label="IMPT1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KIAA0203" label="KIAA0203">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02709" label="DB02709">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast-ovarian cancer, familial, 1}, 604370 (3)" label="{Breast-ovarian cancer, familial, 1}, 604370 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07039" label="DB07039">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01183" label="DB01183">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB03802" label="DB03802">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08363" label="DB08363">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="TP53" label="TP53">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00858" label="DB00858">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01185" label="DB01185">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ESR1" label="ESR1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="LFS2" label="LFS2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PALB2" label="PALB2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, protection against}, 114480 (3)" label="{Breast cancer, protection against}, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08744" label="DB08744">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CHK2" label="CHK2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ECAD" label="ECAD">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07638" label="DB07638">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PIK3CA" label="PIK3CA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08228" label="DB08228">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08020" label="DB08020">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NMOR1" label="NMOR1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00783" label="DB00783">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NMOR2" label="NMOR2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ATA" label="ATA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ATM" label="ATM">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, poor survival after chemotherapy for} (3)" label="{Breast cancer, poor survival after chemotherapy for} (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07339" label="DB07339">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{?Breast cancer susceptibility}, 114480 (1)" label="{?Breast cancer susceptibility}, 114480 (1)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SLC22A1L" label="SLC22A1L">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01108" label="DB01108">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07585" label="DB07585">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="FANCD1" label="FANCD1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Breast cancer, early-onset, 114480 (3)" label="Breast cancer, early-onset, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BRIP1" label="BRIP1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ALPS2B" label="ALPS2B">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01863" label="DB01863">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3)" label="{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06898" label="DB06898">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01196" label="DB01196">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00624" label="DB00624">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08461" label="DB08461">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02633" label="DB02633">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01357" label="DB01357">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SBMA" label="SBMA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00621" label="DB00621">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08804" label="DB08804">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="FANCO" label="FANCO">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="FANCN" label="FANCN">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NS" label="NS">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="FANCJ" label="FANCJ">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00421" label="DB00421">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00255" label="DB00255">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00481" label="DB00481">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Breast cancer, 11:22 translocation associated (1)" label="Breast cancer, 11:22 translocation associated (1)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07087" label="DB07087">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02615" label="DB02615">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PPM1D" label="PPM1D">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BWSCR1A" label="BWSCR1A">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BCPR" label="BCPR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RASK2" label="RASK2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MCAP" label="MCAP">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08089" label="DB08089">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08088" label="DB08088">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07752" label="DB07752">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MRMV2" label="MRMV2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08087" label="DB08087">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD51D" label="RAD51D">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD51C" label="RAD51C">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD51A" label="RAD51A">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00984" label="DB00984">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00539" label="DB00539">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02998" label="DB02998">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KD" label="KD">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00823" label="DB00823">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="WIP1" label="WIP1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PSCP" label="PSCP">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08190" label="DB08190">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08035" label="DB08035">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="HR54" label="HR54">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD53" label="RAD53">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="AT1" label="AT1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07422" label="DB07422">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07423" label="DB07423">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07421" label="DB07421">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="LFS1" label="LFS1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00655" label="DB00655">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00396" label="DB00396">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00499" label="DB00499">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PNCA3" label="PNCA3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PNCA2" label="PNCA2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07717" label="DB07717">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RECA" label="RECA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00157" label="DB00157">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB03147" label="DB03147">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01431" label="DB01431">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PNCA4" label="PNCA4">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="LCAM" label="LCAM">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07195" label="DB07195">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07769" label="DB07769">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="?Breast cancer, type 3 (2)" label="?Breast cancer, type 3 (2)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RB1CC1" label="RB1CC1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04090" label="DB04090">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08398" label="DB08398">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB03626" label="DB03626">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Breast cancer, lobular}, 114480 (3)" label="{Breast cancer, lobular}, 114480 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="RAD54L" label="RAD54L">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CWS6" label="CWS6">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CWS5" label="CWS5">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00947" label="DB00947">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02266" label="DB02266">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00603" label="DB00603">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB02901" label="DB02901">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="P53" label="P53">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07454" label="DB07454">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00665" label="DB00665">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ESR" label="ESR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB08595" label="DB08595">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00367" label="DB00367">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01420" label="DB01420">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00882" label="DB00882">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BROVCA4" label="BROVCA4">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="AR" label="AR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BROVCA2" label="BROVCA2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BROVCA3" label="BROVCA3">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="BROVCA1" label="BROVCA1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DHTR" label="DHTR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07771" label="DB07771">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="TFM" label="TFM">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MCM" label="MCM">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KRAS2" label="KRAS2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01128" label="DB01128">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07286" label="DB07286">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CASP8" label="CASP8">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CMM6" label="CMM6">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06927" label="DB06927">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07567" label="DB07567">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB03742" label="DB03742">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07932" label="DB07932">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB07933" label="DB07933">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB04392" label="DB04392">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="DB04575" target="ESR1" />
+      <edge id="1" source="DB04574" target="ESR1" />
+      <edge id="2" source="CLOVE" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="3" source="DB00957" target="ESR1" />
+      <edge id="4" source="DB04573" target="ESR1" />
+      <edge id="5" source="HRAD54" target="{Breast cancer, invasive ductal}, 114480 (3)" />
+      <edge id="6" source="DB00890" target="ESR1" />
+      <edge id="7" source="DB00675" target="ESR1" />
+      <edge id="8" source="NQO2" target="DB03541" />
+      <edge id="9" source="NQO2" target="DB01065" />
+      <edge id="10" source="NQO2" target="DB03147" />
+      <edge id="11" source="NQO2" target="DB04253" />
+      <edge id="12" source="NQO2" target="DB00157" />
+      <edge id="13" source="NQO2" target="DB01087" />
+      <edge id="14" source="NQO2" target="DB07339" />
+      <edge id="15" source="NQO2" target="{?Breast cancer susceptibility}, 114480 (1)" />
+      <edge id="16" source="NQO2" target="DB08744" />
+      <edge id="17" source="NQO2" target="DB00170" />
+      <edge id="18" source="NQO2" target="DB08190" />
+      <edge id="19" source="NQO2" target="DB08228" />
+      <edge id="20" source="NQO2" target="DB02709" />
+      <edge id="21" source="DB01645" target="ESR1" />
+      <edge id="22" source="NQO1" target="DB03147" />
+      <edge id="23" source="NQO1" target="DB02400" />
+      <edge id="24" source="NQO1" target="DB01927" />
+      <edge id="25" source="NQO1" target="DB02633" />
+      <edge id="26" source="NQO1" target="{Breast cancer, poor survival after chemotherapy for} (3)" />
+      <edge id="27" source="NQO1" target="DB07385" />
+      <edge id="28" source="NQO1" target="DB03626" />
+      <edge id="29" source="NQO1" target="DB00170" />
+      <edge id="30" source="NQO1" target="DB02395" />
+      <edge id="31" source="NQO1" target="DB00266" />
+      <edge id="32" source="NQO1" target="DB04090" />
+      <edge id="33" source="NQO1" target="DB04392" />
+      <edge id="34" source="AKT1" target="DB01169" />
+      <edge id="35" source="AKT1" target="DB00171" />
+      <edge id="36" source="AKT1" target="DB07584" />
+      <edge id="37" source="AKT1" target="DB07585" />
+      <edge id="38" source="AKT1" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="39" source="AKT1" target="DB01863" />
+      <edge id="40" source="DB07708" target="ESR1" />
+      <edge id="41" source="BCC7" target="Breast cancer, 114480 (3)" />
+      <edge id="42" source="SMAX1" target="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" />
+      <edge id="43" source="DIA4" target="{Breast cancer, poor survival after chemotherapy for} (3)" />
+      <edge id="44" source="DB07707" target="ESR1" />
+      <edge id="45" source="DB07991" target="ESR1" />
+      <edge id="46" source="DB07086" target="ESR1" />
+      <edge id="47" source="BRCATA" target="Breast cancer, 11:22 translocation associated (1)" />
+      <edge id="48" source="BRCAX" target="?Breast cancer, type 3 (2)" />
+      <edge id="49" source="DB08773" target="ESR1" />
+      <edge id="50" source="DB01541" target="AR" />
+      <edge id="51" source="{Breast-ovarian cancer, familial, 2}, 612555 (3)" target="PNCA2" />
+      <edge id="52" source="{Breast-ovarian cancer, familial, 2}, 612555 (3)" target="BRCA2" />
+      <edge id="53" source="{Breast-ovarian cancer, familial, 2}, 612555 (3)" target="BROVCA2" />
+      <edge id="54" source="{Breast-ovarian cancer, familial, 2}, 612555 (3)" target="FANCD1" />
+      <edge id="55" source="{Breast-ovarian cancer, familial, 2}, 612555 (3)" target="GLM3" />
+      <edge id="56" source="CDH1" target="{Breast cancer, lobular}, 114480 (3)" />
+      <edge id="57" source="DB08320" target="ESR1" />
+      <edge id="58" source="DB01481" target="AR" />
+      <edge id="59" source="DB00269" target="ESR1" />
+      <edge id="60" source="BRCA1" target="{Breast-ovarian cancer, familial, 1}, 604370 (3)" />
+      <edge id="61" source="BRCA3" target="?Breast cancer, type 3 (2)" />
+      <edge id="62" source="BRCA2" target="{Breast cancer, male, susceptibility to}, 114480 (3)" />
+      <edge id="63" source="BARD1" target="{Breast cancer, susceptibility to}, 114480 (3)" />
+      <edge id="64" source="RAD51L3" target="{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)" />
+      <edge id="65" source="DB08059" target="PIK3CA" />
+      <edge id="66" source="DB07712" target="ESR1" />
+      <edge id="67" source="DB04709" target="AR" />
+      <edge id="68" source="DB04471" target="ESR1" />
+      <edge id="69" source="KRAS" target="DB07771" />
+      <edge id="70" source="KRAS" target="DB07780" />
+      <edge id="71" source="KRAS" target="DB07752" />
+      <edge id="72" source="KRAS" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="73" source="{Breast and colorectal cancer, susceptibility to} (3)" target="CDS1" />
+      <edge id="74" source="{Breast and colorectal cancer, susceptibility to} (3)" target="CHEK2" />
+      <edge id="75" source="{Breast and colorectal cancer, susceptibility to} (3)" target="RAD53" />
+      <edge id="76" source="{Breast and colorectal cancer, susceptibility to} (3)" target="CHK2" />
+      <edge id="77" source="{Breast and colorectal cancer, susceptibility to} (3)" target="LFS2" />
+      <edge id="78" source="{Breast cancer, male, susceptibility to}, 114480 (3)" target="PNCA2" />
+      <edge id="79" source="{Breast cancer, male, susceptibility to}, 114480 (3)" target="BROVCA2" />
+      <edge id="80" source="{Breast cancer, male, susceptibility to}, 114480 (3)" target="GLM3" />
+      <edge id="81" source="{Breast cancer, male, susceptibility to}, 114480 (3)" target="FANCD1" />
+      <edge id="82" source="PHB" target="{Breast cancer, susceptibility to}, 114480 (3)" />
+      <edge id="83" source="{Breast cancer, invasive ductal}, 114480 (3)" target="HR54" />
+      <edge id="84" source="{Breast cancer, invasive ductal}, 114480 (3)" target="RAD54L" />
+      <edge id="85" source="CC1" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="86" source="Breast cancer, 114480 (3)" target="PPM1D" />
+      <edge id="87" source="Breast cancer, 114480 (3)" target="TP53" />
+      <edge id="88" source="Breast cancer, 114480 (3)" target="WIP1" />
+      <edge id="89" source="Breast cancer, 114480 (3)" target="LFS1" />
+      <edge id="90" source="Breast cancer, 114480 (3)" target="P53" />
+      <edge id="91" source="DB00304" target="ESR1" />
+      <edge id="92" source="DB06710" target="AR" />
+      <edge id="93" source="DB08047" target="ESR1" />
+      <edge id="94" source="CDS1" target="{Breast cancer, susceptibility to}, 114480 (3)" />
+      <edge id="95" source="DB08048" target="ESR1" />
+      <edge id="96" source="Breast cancer (1)" target="BCPR" />
+      <edge id="97" source="Breast cancer (1)" target="ESR" />
+      <edge id="98" source="Breast cancer (1)" target="ESR1" />
+      <edge id="99" source="TSG101" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="100" source="DB01065" target="ESR1" />
+      <edge id="101" source="{Breast cancer, susceptibility to}, 114480 (3)" target="HMMR" />
+      <edge id="102" source="{Breast cancer, susceptibility to}, 114480 (3)" target="RECA" />
+      <edge id="103" source="{Breast cancer, susceptibility to}, 114480 (3)" target="PNCA3" />
+      <edge id="104" source="{Breast cancer, susceptibility to}, 114480 (3)" target="PALB2" />
+      <edge id="105" source="{Breast cancer, susceptibility to}, 114480 (3)" target="ATM" />
+      <edge id="106" source="{Breast cancer, susceptibility to}, 114480 (3)" target="CHK2" />
+      <edge id="107" source="{Breast cancer, susceptibility to}, 114480 (3)" target="ATA" />
+      <edge id="108" source="{Breast cancer, susceptibility to}, 114480 (3)" target="CMM6" />
+      <edge id="109" source="{Breast cancer, susceptibility to}, 114480 (3)" target="AT1" />
+      <edge id="110" source="{Breast cancer, susceptibility to}, 114480 (3)" target="RAD53" />
+      <edge id="111" source="{Breast cancer, susceptibility to}, 114480 (3)" target="MRMV2" />
+      <edge id="112" source="{Breast cancer, susceptibility to}, 114480 (3)" target="FANCN" />
+      <edge id="113" source="{Breast cancer, susceptibility to}, 114480 (3)" target="LFS2" />
+      <edge id="114" source="{Breast cancer, susceptibility to}, 114480 (3)" target="CHEK2" />
+      <edge id="115" source="{Breast cancer, susceptibility to}, 114480 (3)" target="XRCC3" />
+      <edge id="116" source="{Breast cancer, susceptibility to}, 114480 (3)" target="RAD51A" />
+      <edge id="117" source="DB02932" target="AR" />
+      <edge id="118" source="DB00977" target="ESR1" />
+      <edge id="119" source="{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)" target="RAD51D" />
+      <edge id="120" source="{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)" target="BROVCA4" />
+      <edge id="121" source="DB02715" target="ESR1" />
+      <edge id="122" source="DB04839" target="AR" />
+      <edge id="123" source="DB00286" target="ESR1" />
+      <edge id="124" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="TFM" />
+      <edge id="125" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="KD" />
+      <edge id="126" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="SBMA" />
+      <edge id="127" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="AR" />
+      <edge id="128" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="HYSP1" />
+      <edge id="129" source="Androgen insensitivity, partial, with or without breast cancer, 312300 (3)" target="DHTR" />
+      <edge id="130" source="DB08737" target="ESR1" />
+      <edge id="131" source="MCH5" target="{Breast cancer, protection against}, 114480 (3)" />
+      <edge id="132" source="DB06870" target="AR" />
+      <edge id="133" source="MCMTC" target="Breast cancer, somatic, 114480 (3)" />
+      <edge id="134" source="DB00687" target="AR" />
+      <edge id="135" source="BACH1" target="Breast cancer, early-onset, 114480 (3)" />
+      <edge id="136" source="DB07678" target="ESR1" />
+      <edge id="137" source="DB01406" target="AR" />
+      <edge id="138" source="DB01406" target="ESR1" />
+      <edge id="139" source="DB06871" target="ESR1" />
+      <edge id="140" source="UVO" target="{Breast cancer, lobular}, 114480 (3)" />
+      <edge id="141" source="DB01564" target="AR" />
+      <edge id="142" source="DB07419" target="AR" />
+      <edge id="143" source="Breast cancer, somatic, 114480 (3)" target="MCM" />
+      <edge id="144" source="Breast cancer, somatic, 114480 (3)" target="KRAS2" />
+      <edge id="145" source="Breast cancer, somatic, 114480 (3)" target="BWSCR1A" />
+      <edge id="146" source="Breast cancer, somatic, 114480 (3)" target="MCAP" />
+      <edge id="147" source="Breast cancer, somatic, 114480 (3)" target="RASK2" />
+      <edge id="148" source="Breast cancer, somatic, 114480 (3)" target="IMPT1" />
+      <edge id="149" source="Breast cancer, somatic, 114480 (3)" target="SLC22A1L" />
+      <edge id="150" source="Breast cancer, somatic, 114480 (3)" target="KIAA0203" />
+      <edge id="151" source="Breast cancer, somatic, 114480 (3)" target="PIK3CA" />
+      <edge id="152" source="Breast cancer, somatic, 114480 (3)" target="CWS6" />
+      <edge id="153" source="Breast cancer, somatic, 114480 (3)" target="RB1CC1" />
+      <edge id="154" source="Breast cancer, somatic, 114480 (3)" target="NS" />
+      <edge id="155" source="Breast cancer, somatic, 114480 (3)" target="CWS5" />
+      <edge id="156" source="DB01395" target="AR" />
+      <edge id="157" source="DB00294" target="ESR1" />
+      <edge id="158" source="{Breast-ovarian cancer, familial, 1}, 604370 (3)" target="PSCP" />
+      <edge id="159" source="{Breast-ovarian cancer, familial, 1}, 604370 (3)" target="PNCA4" />
+      <edge id="160" source="{Breast-ovarian cancer, familial, 1}, 604370 (3)" target="BROVCA1" />
+      <edge id="161" source="DB07039" target="AR" />
+      <edge id="162" source="DB01183" target="ESR1" />
+      <edge id="163" source="DB03802" target="ESR1" />
+      <edge id="164" source="DB08363" target="TP53" />
+      <edge id="165" source="DB00858" target="AR" />
+      <edge id="166" source="DB01185" target="AR" />
+      <edge id="167" source="DB01185" target="ESR1" />
+      <edge id="168" source="ESR1" target="DB00655" />
+      <edge id="169" source="ESR1" target="DB01108" />
+      <edge id="170" source="ESR1" target="DB07087" />
+      <edge id="171" source="ESR1" target="DB01431" />
+      <edge id="172" source="ESR1" target="DB02615" />
+      <edge id="173" source="ESR1" target="DB08398" />
+      <edge id="174" source="ESR1" target="DB06898" />
+      <edge id="175" source="ESR1" target="DB00783" />
+      <edge id="176" source="ESR1" target="DB01357" />
+      <edge id="177" source="ESR1" target="DB00255" />
+      <edge id="178" source="ESR1" target="DB07195" />
+      <edge id="179" source="ESR1" target="DB07567" />
+      <edge id="180" source="ESR1" target="DB00481" />
+      <edge id="181" source="ESR1" target="DB08595" />
+      <edge id="182" source="ESR1" target="DB00947" />
+      <edge id="183" source="ESR1" target="DB00603" />
+      <edge id="184" source="ESR1" target="DB00367" />
+      <edge id="185" source="ESR1" target="DB00882" />
+      <edge id="186" source="ESR1" target="DB07638" />
+      <edge id="187" source="ESR1" target="DB00396" />
+      <edge id="188" source="ESR1" target="DB07933" />
+      <edge id="189" source="ESR1" target="DB00539" />
+      <edge id="190" source="ESR1" target="DB01196" />
+      <edge id="191" source="ESR1" target="DB00823" />
+      <edge id="192" source="ESR1" target="DB06927" />
+      <edge id="193" source="ESR1" target="DB03742" />
+      <edge id="194" source="ESR1" target="DB07932" />
+      <edge id="195" source="ESR1" target="DB08020" />
+      <edge id="196" source="{Breast cancer, protection against}, 114480 (3)" target="ALPS2B" />
+      <edge id="197" source="{Breast cancer, protection against}, 114480 (3)" target="CASP8" />
+      <edge id="198" source="ECAD" target="{Breast cancer, lobular}, 114480 (3)" />
+      <edge id="199" source="NMOR1" target="{Breast cancer, poor survival after chemotherapy for} (3)" />
+      <edge id="200" source="NMOR2" target="{?Breast cancer susceptibility}, 114480 (1)" />
+      <edge id="201" source="Breast cancer, early-onset, 114480 (3)" target="BRIP1" />
+      <edge id="202" source="Breast cancer, early-onset, 114480 (3)" target="FANCJ" />
+      <edge id="203" source="{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3)" target="FANCO" />
+      <edge id="204" source="{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3)" target="RAD51C" />
+      <edge id="205" source="{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3)" target="BROVCA3" />
+      <edge id="206" source="DB00624" target="AR" />
+      <edge id="207" source="DB08461" target="AR" />
+      <edge id="208" source="DB00621" target="AR" />
+      <edge id="209" source="DB08804" target="AR" />
+      <edge id="210" source="DB00421" target="AR" />
+      <edge id="211" source="DB08089" target="AR" />
+      <edge id="212" source="DB08088" target="AR" />
+      <edge id="213" source="DB08087" target="AR" />
+      <edge id="214" source="DB00984" target="AR" />
+      <edge id="215" source="DB02998" target="AR" />
+      <edge id="216" source="DB08035" target="AR" />
+      <edge id="217" source="DB07422" target="AR" />
+      <edge id="218" source="DB07423" target="AR" />
+      <edge id="219" source="DB07421" target="AR" />
+      <edge id="220" source="DB00499" target="AR" />
+      <edge id="221" source="DB07717" target="AR" />
+      <edge id="222" source="LCAM" target="{Breast cancer, lobular}, 114480 (3)" />
+      <edge id="223" source="DB07769" target="AR" />
+      <edge id="224" source="DB02266" target="AR" />
+      <edge id="225" source="DB02901" target="AR" />
+      <edge id="226" source="DB07454" target="AR" />
+      <edge id="227" source="DB00665" target="AR" />
+      <edge id="228" source="DB00367" target="AR" />
+      <edge id="229" source="DB01420" target="AR" />
+      <edge id="230" source="AR" target="DB07286" />
+      <edge id="231" source="AR" target="DB01128" />
+    </edges>
+  </graph>
+</gexf>

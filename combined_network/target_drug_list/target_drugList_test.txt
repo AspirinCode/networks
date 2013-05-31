@@ -1,0 +1,4 @@
+Drug1 | DB00303
+Drug2 | DB00117
+Drug3 | DB00142
+Drug4 | DB01839

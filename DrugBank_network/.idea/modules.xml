@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../combined_network/DB-gene-MM/.idea/DB-gene-MM.iml" filepath="$PROJECT_DIR$/../combined_network/DB-gene-MM/.idea/DB-gene-MM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../combined_network/target_drug_list/.idea/Diabetic_Network.iml" filepath="$PROJECT_DIR$/../combined_network/target_drug_list/.idea/Diabetic_Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DrugBank_network.iml" filepath="$PROJECT_DIR$/.idea/DrugBank_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PathwayCommons_network/GSEA_network/.idea/GSEA_network.iml" filepath="$PROJECT_DIR$/../PathwayCommons_network/GSEA_network/.idea/GSEA_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MorbidMap_networkX/.idea/MorbidMap_networkX.iml" filepath="$PROJECT_DIR$/../MorbidMap_networkX/.idea/MorbidMap_networkX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../combined_network/OMIM-GSEA/OMIM-GSEA_network/.idea/OMIM-GSEA_network.iml" filepath="$PROJECT_DIR$/../combined_network/OMIM-GSEA/OMIM-GSEA_network/.idea/OMIM-GSEA_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PharmGKB/.idea/PharmGKB.iml" filepath="$PROJECT_DIR$/../PharmGKB/.idea/PharmGKB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../combined_network/target_disease/.idea/target_disease.iml" filepath="$PROJECT_DIR$/../combined_network/target_disease/.idea/target_disease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/.idea/testing.iml" filepath="$PROJECT_DIR$/../testing/.idea/testing.iml" />
+    </modules>
+  </component>
+</project>
+

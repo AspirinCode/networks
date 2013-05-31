@@ -1,0 +1,8 @@
+Alteplase | DB00009
+Ardeparin | DB00407
+Dalteparin | DB06779
+Enoxaparin | DB01225 
+Fondaparinux | DB00569
+Lepirudin | DB00001
+Urokinase | DB00013
+Warfarin | DB00682

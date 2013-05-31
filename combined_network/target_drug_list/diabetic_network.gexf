@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?><gexf xmlns:ns0="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Obesity, severe, 601665 (3)" label="Obesity, severe, 601665 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00731" label="DB00731">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00222" label="DB00222">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="IGF1R" label="IGF1R">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00047" label="DB00047">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00491" label="DB00491">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Mental retardation, X-linked 63, 300387 (3)" label="Mental retardation, X-linked 63, 300387 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="INSR" label="INSR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00284" label="DB00284">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06335" label="DB06335">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="HDL deficiency, type 2, 604091 (3)" label="HDL deficiency, type 2, 604091 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Cardiomyopathy, dilated, 1O, 608569 (3)" label="Cardiomyopathy, dilated, 1O, 608569 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Hypoglycemia of infancy, leucine-sensitive, 240800 (3)" label="Hypoglycemia of infancy, leucine-sensitive, 240800 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00912" label="DB00912">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Tangier disease, 205400 (3)" label="Tangier disease, 205400 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Cholestasis, progressive familial intrahepatic 2, 601847 (3)" label="Cholestasis, progressive familial intrahepatic 2, 601847 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="MGAM" label="MGAM">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Hypertrypsinemia, neonatal} (3)" label="{Hypertrypsinemia, neonatal} (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Sucrase-isomaltase deficiency, congenital, 222900 (3)" label="Sucrase-isomaltase deficiency, congenital, 222900 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01132" label="DB01132">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01016" label="DB01016">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Lipodystrophy, familial partial, type 3, 604367 (3)" label="Lipodystrophy, familial partial, type 3, 604367 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="GLP1R" label="GLP1R">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DPP4" label="DPP4">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="GAA" label="GAA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01276" label="DB01276">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Carotid intimal medial thickness 1, 609338 (3)" label="Carotid intimal medial thickness 1, 609338 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Cholestasis, benign recurrent intrahepatic, 2, 605479 (3)" label="Cholestasis, benign recurrent intrahepatic, 2, 605479 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KCNJ11" label="KCNJ11">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="AMY2A" label="AMY2A">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Hyperaldosteronism, familial, type III, 613677 (3)" label="Hyperaldosteronism, familial, type III, 613677 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PRKAB1" label="PRKAB1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Leprechaunism, 246200 (3)" label="Leprechaunism, 246200 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00331" label="DB00331">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Coronary artery disease in familial hypercholesterolemia, protection against}, 143890 (3)" label="{Coronary artery disease in familial hypercholesterolemia, protection against}, 143890 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PPARG" label="PPARG">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ABCB11" label="ABCB11">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="[Obesity, resistance to] (3)" label="[Obesity, resistance to] (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Bartter syndrome, type 2, 241200 (3)" label="Bartter syndrome, type 2, 241200 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Congenital bilateral absence of vas deferens, 277180 (3)" label="Congenital bilateral absence of vas deferens, 277180 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Atrial fibrillation, familial, 12, 614050 (3)" label="Atrial fibrillation, familial, 12, 614050 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Pancreatitis, idiopathic}, 167800 (3)" label="{Pancreatitis, idiopathic}, 167800 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00046" label="DB00046">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Rabson-Mendenhall syndrome, 262190 (3)" label="Rabson-Mendenhall syndrome, 262190 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KCNJ1" label="KCNJ1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00412" label="DB00412">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="KCNJ5" label="KCNJ5">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01261" label="DB01261">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Bronchiectasis with or without elevated sweat chloride 1, modifier of}, 211400 (3)" label="{Bronchiectasis with or without elevated sweat chloride 1, modifier of}, 211400 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Cystic fibrosis, 219700 (3)" label="Cystic fibrosis, 219700 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ACSL4" label="ACSL4">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SI" label="SI">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Sweat chloride elevation without CF (3)" label="Sweat chloride elevation without CF (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ABCC8" label="ABCC8">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ABCC9" label="ABCC9">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ABCA1" label="ABCA1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Hypertrichotic osteochondrodysplasia, 239850 (3)" label="Hypertrichotic osteochondrodysplasia, 239850 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Glycogen storage disease II, 232300 (3)" label="Glycogen storage disease II, 232300 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB06655" label="DB06655">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="CFTR" label="CFTR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Long QT syndrome 13, 613485 (3)" label="Long QT syndrome 13, 613485 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01306" label="DB01306">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Obesity, severe, 601665 (3)" target="PPARG" />
+      <edge id="1" source="DB00731" target="PPARG" />
+      <edge id="2" source="DB00731" target="ABCC8" />
+      <edge id="3" source="DB00222" target="KCNJ11" />
+      <edge id="4" source="DB00222" target="ABCC8" />
+      <edge id="5" source="DB00222" target="KCNJ1" />
+      <edge id="6" source="IGF1R" target="DB00047" />
+      <edge id="7" source="IGF1R" target="DB00046" />
+      <edge id="8" source="DB00047" target="INSR" />
+      <edge id="9" source="DB00491" target="MGAM" />
+      <edge id="10" source="DB00491" target="GAA" />
+      <edge id="11" source="Mental retardation, X-linked 63, 300387 (3)" target="ACSL4" />
+      <edge id="12" source="INSR" target="Rabson-Mendenhall syndrome, 262190 (3)" />
+      <edge id="13" source="INSR" target="Leprechaunism, 246200 (3)" />
+      <edge id="14" source="INSR" target="DB01306" />
+      <edge id="15" source="INSR" target="DB00046" />
+      <edge id="16" source="DB00284" target="MGAM" />
+      <edge id="17" source="DB00284" target="AMY2A" />
+      <edge id="18" source="DB00284" target="GAA" />
+      <edge id="19" source="DB00284" target="SI" />
+      <edge id="20" source="DB06335" target="DPP4" />
+      <edge id="21" source="HDL deficiency, type 2, 604091 (3)" target="ABCA1" />
+      <edge id="22" source="Cardiomyopathy, dilated, 1O, 608569 (3)" target="ABCC9" />
+      <edge id="23" source="Hypoglycemia of infancy, leucine-sensitive, 240800 (3)" target="ABCC8" />
+      <edge id="24" source="DB00912" target="PPARG" />
+      <edge id="25" source="DB00912" target="ABCC8" />
+      <edge id="26" source="Tangier disease, 205400 (3)" target="ABCA1" />
+      <edge id="27" source="Cholestasis, progressive familial intrahepatic 2, 601847 (3)" target="ABCB11" />
+      <edge id="28" source="{Hypertrypsinemia, neonatal} (3)" target="CFTR" />
+      <edge id="29" source="Sucrase-isomaltase deficiency, congenital, 222900 (3)" target="SI" />
+      <edge id="30" source="DB01132" target="PPARG" />
+      <edge id="31" source="DB01016" target="KCNJ1" />
+      <edge id="32" source="DB01016" target="KCNJ5" />
+      <edge id="33" source="DB01016" target="KCNJ11" />
+      <edge id="34" source="DB01016" target="ABCB11" />
+      <edge id="35" source="DB01016" target="ABCC8" />
+      <edge id="36" source="DB01016" target="ABCC9" />
+      <edge id="37" source="DB01016" target="ABCA1" />
+      <edge id="38" source="DB01016" target="CFTR" />
+      <edge id="39" source="Lipodystrophy, familial partial, type 3, 604367 (3)" target="PPARG" />
+      <edge id="40" source="GLP1R" target="DB06655" />
+      <edge id="41" source="GLP1R" target="DB01276" />
+      <edge id="42" source="DPP4" target="DB01261" />
+      <edge id="43" source="GAA" target="Glycogen storage disease II, 232300 (3)" />
+      <edge id="44" source="Carotid intimal medial thickness 1, 609338 (3)" target="PPARG" />
+      <edge id="45" source="Cholestasis, benign recurrent intrahepatic, 2, 605479 (3)" target="ABCB11" />
+      <edge id="46" source="Hyperaldosteronism, familial, type III, 613677 (3)" target="KCNJ5" />
+      <edge id="47" source="PRKAB1" target="DB00331" />
+      <edge id="48" source="{Coronary artery disease in familial hypercholesterolemia, protection against}, 143890 (3)" target="ABCA1" />
+      <edge id="49" source="PPARG" target="DB00412" />
+      <edge id="50" source="PPARG" target="[Obesity, resistance to] (3)" />
+      <edge id="51" source="Bartter syndrome, type 2, 241200 (3)" target="KCNJ1" />
+      <edge id="52" source="Congenital bilateral absence of vas deferens, 277180 (3)" target="CFTR" />
+      <edge id="53" source="Atrial fibrillation, familial, 12, 614050 (3)" target="ABCC9" />
+      <edge id="54" source="{Pancreatitis, idiopathic}, 167800 (3)" target="CFTR" />
+      <edge id="55" source="DB00412" target="ACSL4" />
+      <edge id="56" source="KCNJ5" target="Long QT syndrome 13, 613485 (3)" />
+      <edge id="57" source="{Bronchiectasis with or without elevated sweat chloride 1, modifier of}, 211400 (3)" target="CFTR" />
+      <edge id="58" source="Cystic fibrosis, 219700 (3)" target="CFTR" />
+      <edge id="59" source="Sweat chloride elevation without CF (3)" target="CFTR" />
+      <edge id="60" source="ABCC9" target="Hypertrichotic osteochondrodysplasia, 239850 (3)" />
+    </edges>
+  </graph>
+</gexf>

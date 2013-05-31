@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?><gexf xmlns:ns0="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="DB06779" label="DB06779">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PLAUR" label="PLAUR">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Donnai-Barrow syndrome, 222448 (3)" label="Donnai-Barrow syndrome, 222448 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="ST14" label="ST14">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Amyloidosis, hereditary renal, 105200 (3)" label="Amyloidosis, hereditary renal, 105200 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Pregnancy loss, recurrent, susceptibility to, 2}, 614390 (3)" label="{Pregnancy loss, recurrent, susceptibility to, 2}, 614390 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SERPINE1" label="SERPINE1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00682" label="DB00682">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SERPINA5" label="SERPINA5">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SERPINC1" label="SERPINC1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Hyperfibrinolysis, familial, due to increased release of PLAT, 612348 (1)" label="Hyperfibrinolysis, familial, due to increased release of PLAT, 612348 (1)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="VKORC1" label="VKORC1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00569" label="DB00569">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="NID1" label="NID1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Factor X deficiency, 227600 (3)" label="Factor X deficiency, 227600 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="TFPI" label="TFPI">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00013" label="DB00013">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="FGA" label="FGA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00407" label="DB00407">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Afibrinogenemia, congenital, 202400 (3)" label="Afibrinogenemia, congenital, 202400 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PLAU" label="PLAU">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PLAT" label="PLAT">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Alzheimer disease, late-onset, susceptibility to}, 104300 (3)" label="{Alzheimer disease, late-onset, susceptibility to}, 104300 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="VEGFA" label="VEGFA">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Conjunctivitis, ligneous, 217090 (3)" label="Conjunctivitis, ligneous, 217090 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="F10" label="F10">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SERPINB2" label="SERPINB2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SERPIND1" label="SERPIND1">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="LRP2" label="LRP2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="F2" label="F2">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Hypoprothrombinemia, 613679 (3)" label="Hypoprothrombinemia, 613679 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="SELP" label="SELP">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Dysprothrombinemia, 613679 (3)" label="Dysprothrombinemia, 613679 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB01225" label="DB01225">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="PLG" label="PLG">
+        <ns0:color a="0.5" b="200" g="10" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00009" label="DB00009">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Dysfibrinogenemia, alpha type, causing bleeding diathesis (3)" label="Dysfibrinogenemia, alpha type, causing bleeding diathesis (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="Ichthyosis with hypotrichosis, 610765 (3)" label="Ichthyosis with hypotrichosis, 610765 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+      <node id="DB00001" label="DB00001">
+        <ns0:color a="0.5" b="10" g="10" r="200" />
+        <ns0:size value="1" />
+      </node>
+      <node id="{Atopy, susceptibility to}, 147050 (3)" label="{Atopy, susceptibility to}, 147050 (3)">
+        <ns0:color a="0.5" b="10" g="200" r="10" />
+        <ns0:size value="1" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="DB06779" target="VEGFA" />
+      <edge id="1" source="DB06779" target="TFPI" />
+      <edge id="2" source="DB06779" target="SELP" />
+      <edge id="3" source="DB06779" target="SERPINC1" />
+      <edge id="4" source="PLAUR" target="DB00013" />
+      <edge id="5" source="PLAUR" target="DB00009" />
+      <edge id="6" source="Donnai-Barrow syndrome, 222448 (3)" target="LRP2" />
+      <edge id="7" source="ST14" target="DB00013" />
+      <edge id="8" source="ST14" target="Ichthyosis with hypotrichosis, 610765 (3)" />
+      <edge id="9" source="Amyloidosis, hereditary renal, 105200 (3)" target="FGA" />
+      <edge id="10" source="{Pregnancy loss, recurrent, susceptibility to, 2}, 614390 (3)" target="F2" />
+      <edge id="11" source="SERPINE1" target="DB00013" />
+      <edge id="12" source="SERPINE1" target="DB00009" />
+      <edge id="13" source="DB00682" target="VKORC1" />
+      <edge id="14" source="SERPINA5" target="DB00013" />
+      <edge id="15" source="SERPINC1" target="DB00569" />
+      <edge id="16" source="SERPINC1" target="DB00407" />
+      <edge id="17" source="SERPINC1" target="DB01225" />
+      <edge id="18" source="Hyperfibrinolysis, familial, due to increased release of PLAT, 612348 (1)" target="PLAT" />
+      <edge id="19" source="DB00569" target="F10" />
+      <edge id="20" source="NID1" target="DB00013" />
+      <edge id="21" source="Factor X deficiency, 227600 (3)" target="F10" />
+      <edge id="22" source="DB00013" target="LRP2" />
+      <edge id="23" source="DB00013" target="PLAU" />
+      <edge id="24" source="DB00013" target="PLAT" />
+      <edge id="25" source="DB00013" target="PLG" />
+      <edge id="26" source="DB00013" target="SERPINB2" />
+      <edge id="27" source="FGA" target="Afibrinogenemia, congenital, 202400 (3)" />
+      <edge id="28" source="FGA" target="DB00009" />
+      <edge id="29" source="FGA" target="Dysfibrinogenemia, alpha type, causing bleeding diathesis (3)" />
+      <edge id="30" source="DB00407" target="SERPIND1" />
+      <edge id="31" source="PLAU" target="{Alzheimer disease, late-onset, susceptibility to}, 104300 (3)" />
+      <edge id="32" source="Conjunctivitis, ligneous, 217090 (3)" target="PLG" />
+      <edge id="33" source="F10" target="DB01225" />
+      <edge id="34" source="F2" target="Dysprothrombinemia, 613679 (3)" />
+      <edge id="35" source="F2" target="DB00001" />
+      <edge id="36" source="F2" target="Hypoprothrombinemia, 613679 (3)" />
+      <edge id="37" source="SELP" target="{Atopy, susceptibility to}, 147050 (3)" />
+      <edge id="38" source="PLG" target="DB00009" />
+    </edges>
+  </graph>
+</gexf>
